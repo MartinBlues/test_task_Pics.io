@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# Playwright output
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+playwright/.auth/
+
+# environment
+.env
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+
+# TypeScript cache
+*.tsbuildinfo
